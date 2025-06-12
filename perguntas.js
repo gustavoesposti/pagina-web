@@ -1,23 +1,24 @@
 criaCartao(
-    'Programação',
-    'O que é um algoritmo?',
-    'O algoritmo é uma sequência de passos ou operações que transformam dados de entrada em dados de saída, seguindo um conjunto de regras.'
+    'formulá 1',
+    'quem é o maior vencedor da histótia?',
+    'Lewis Hamilton é o piloto com mais vitórias na F1, com 105 corridas vencidas. 
+.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da Suécia?',
-    'A capital da Suécia é Estocolmo. '
+    'formulá 1',
+    'Qual é a equipe mais vencedora da F1?',
+    '.A Ferrari é a equipe com mais títulos de construtores na F1, com 16 campeonatos mundiais.  '
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'formulá 1',
+    'Como funciona a pontuação no campeonato?',
+    ''Os pilotos pontuam de acordo com a posição em que terminam as corridas, com os primeiros colocados recebendo mais pontos. 
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'formulá 1',
+    'Quais são os desafios que a F1 enfrenta?',
+    'A F1 enfrenta desafios como a busca por um futuro sustentável, a necessidade de tornar a competição mais acessível e a constante evolução tecnológica.'
 )

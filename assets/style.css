@@ -1,7 +1,7 @@
 :root {
-    --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
+    --text-color: #f80c0c;
+    --card-front-color: #0a0a0a;
+    --card-back-color: #0a0909;
 }
 
 body {
@@ -10,7 +10,7 @@ body {
 }
 
 #container {
-    display: flex; 
+    display: grid; 
     flex-wrap: wrap;
     justify-content: space-between;
     padding: 4rem;
